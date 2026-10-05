@@ -12,7 +12,7 @@
 
 **DevOps-b-2329151**
 
-**(https://github.com/falaknaz433/DevOps-b-2329151/new/main)**
+**https://github.com/falaknaz433/DevOps-b-2329151**
 
 
 
